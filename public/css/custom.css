@@ -1,0 +1,16 @@
+#tag1_tag{
+	width: 200px;
+}
+
+.tag{
+	padding-right: 7%;
+}
+
+.userlbl{
+	font-size: 10px;
+}
+
+
+thead>tr{
+	background-color: lightgray;
+}
